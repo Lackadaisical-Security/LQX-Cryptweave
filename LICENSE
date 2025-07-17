@@ -1,0 +1,64 @@
+MIT License
+
+Copyright (c) 2024 Lackadaisical Security
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+=============================================================================
+
+ADDITIONAL TERMS FOR CRYPTOGRAPHIC SOFTWARE
+
+This software contains cryptographic functionality. The use, distribution, and
+modification of this software may be subject to applicable laws and regulations
+in your jurisdiction regarding cryptographic software.
+
+DISCLAIMER: This software is provided for educational and research purposes.
+Users are responsible for ensuring compliance with all applicable laws and
+regulations in their jurisdiction. The authors and contributors make no
+representations regarding the legal use of this software.
+
+EXPORT CONTROL NOTICE: This distribution includes cryptographic software.
+Some countries may restrict the import, possession, use, and/or re-export
+of encryption software. Check the laws of your country before using this
+software.
+
+SECURITY NOTICE: While this software implements multiple layers of security,
+no cryptographic system is absolutely secure. Users should:
+1. Keep software updated
+2. Use strong, unique passwords
+3. Follow security best practices
+4. Conduct independent security assessments
+5. Report security issues responsibly
+
+For security issues, please contact: security@lackadaisical.dev
+
+=============================================================================
+
+ACKNOWLEDGMENTS
+
+This software incorporates concepts and techniques from various sources:
+- BLAKE3 cryptographic hash function
+- CRYSTALS-Kyber post-quantum cryptography
+- AES-GCM authenticated encryption
+- ChaCha20-Poly1305 stream cipher
+- RFC standards for HOTP/TOTP
+- Various academic research in cryptography
+
+Special thanks to the cryptographic research community for their contributions
+to the field of information security.
