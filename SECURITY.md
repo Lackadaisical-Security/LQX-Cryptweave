@@ -111,15 +111,6 @@ We encourage responsible disclosure of security vulnerabilities:
 4. **Mitigation**: Develop and test security patch
 5. **Disclosure**: Coordinated public disclosure with credit
 
-### Bug Bounty Program
-
-We offer rewards for security vulnerability discoveries:
-
-- **Critical Vulnerabilities**: $10,000 - $50,000
-- **High Severity**: $5,000 - $10,000
-- **Medium Severity**: $1,000 - $5,000
-- **Low Severity**: $100 - $1,000
-
 ## Security Monitoring
 
 ### Continuous Security
