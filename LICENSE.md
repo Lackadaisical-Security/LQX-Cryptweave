@@ -1,186 +1,193 @@
-# LQX-20-Penta-Cryptweave Proprietary License
+# License
 
-**Copyright © 2025 Lackadaisical Security. All rights reserved.**
+**LQX Ultimate Penta-Cryptweave Library**  
+**Version:** 1.0.0-PERFECT  
 
----
+## Lackadaisical Proprietary License Agreement
 
-## PROPRIETARY SOFTWARE LICENSE AGREEMENT
+**Copyright © 2025 Lackadaisical Technologies. All rights reserved.**
 
-**LQX-20-Penta-Cryptweave: Ultimate Multi-Linguistic Quantum Cryptographic System**
+### IMPORTANT - READ CAREFULLY
 
-This License Agreement ("Agreement") is entered into between Lackadaisical Security ("Licensor") and any individual or entity ("Licensee") using the LQX-20-Penta-Cryptweave system ("Software").
+This License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Lackadaisical Technologies ("Licensor") for the LQX Ultimate Penta-Cryptweave software library, including computer software and associated documentation ("Software").
 
----
+By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install or use the Software.
 
 ## 1. GRANT OF LICENSE
 
 ### 1.1 Evaluation License
-Subject to the terms of this Agreement, Licensor grants Licensee a limited, non-exclusive, non-transferable license to:
-- Evaluate the Software for a period of 30 days
-- Access documentation and technical specifications
-- Perform compatibility testing with existing systems
+Licensor hereby grants you a limited, non-exclusive, non-transferable license to use the Software for evaluation purposes only for a period of thirty (30) days from the date of installation.
 
-### 1.2 Commercial License Tiers
+### 1.2 Commercial License
+Upon payment of applicable license fees, Licensor grants you the following rights:
 
-#### **Starter License** - $50,000/year
-- Single application deployment
-- Maximum 2 language systems (LQX-Eldar + LQX-Norse OR LQX-Hieroglyphic + LQX-Khuzdul)
-- Standard support via email
-- Binary distribution only
+**a) Single Developer License**
+- Use by one (1) named developer
+- Integration into commercial applications
+- Redistribution rights for compiled binaries only
 
-#### **Professional License** - $150,000/year  
-- Unlimited application deployments within organization
-- All 5 language systems (LQX-20 + LQX-Eldar + LQX-Norse + LQX-Hieroglyphic + LQX-Khuzdul)
-- Priority support with 48-hour response time
-- Binary distribution + limited source access for integration
+**b) Team License (up to 10 developers)**
+- Use by up to ten (10) named developers within your organization
+- Integration into commercial applications
+- Redistribution rights for compiled binaries only
 
-#### **Enterprise License** - $500,000/year
-- Unlimited deployments across all subsidiaries
-- Full source code access
-- Custom language system development
-- Dedicated support engineer
-- On-site implementation assistance
-- Modification rights (with restrictions)
+**c) Enterprise License (unlimited developers)**
+- Use by unlimited developers within your organization
+- Integration into commercial applications
+- Redistribution rights for compiled binaries only
+- Priority technical support
 
-#### **Government/Enterprise Premium** - Custom Pricing
-- Enhanced security validations
-- Additional ancient language integrations
-- Custom cryptographic primitives
-- Classified environment deployments
-- 24/7 dedicated support team
+### 1.3 Academic License
+Academic institutions may use the Software for educational and research purposes under special academic licensing terms. Contact Licensor for academic pricing.
 
----
+## 2. RESTRICTIONS
 
-## 2. INTELLECTUAL PROPERTY RIGHTS
+You may NOT:
 
-### 2.1 Proprietary Technology
-The Software contains proprietary and confidential information including:
-- **LQX-20 Quantum Cryptographic Core** (400 transformations)
-- **Multi-Linguistic Integration Architecture** (115,000+ vocabulary entries)
-- **Penta-Primitive Fusion Technology** (186,420+ transformations per chunk)
-- **Zero-Dependency Implementation** (Pure C99 + Assembly)
-- **Authentic Linguistic Databases** (Tolkien, Norse, Egyptian sources)
+**a)** Distribute, sublicense, or transfer the source code of the Software  
+**b)** Reverse engineer, decompile, or disassemble the Software  
+**c)** Create derivative works based on the Software's proprietary algorithms  
+**d)** Remove or alter any proprietary notices, labels, or marks  
+**e)** Use the Software to develop competing cryptographic libraries  
+**f)** Benchmark or publish performance comparisons without written consent  
 
-### 2.2 Trade Secrets
-Licensee acknowledges that the following constitute trade secrets:
-- Quantum-linguistic transformation algorithms
-- Multi-language state synchronization methods
-- Reality anchor validation techniques
-- Metamorphic evolution patterns
-- Cross-linguistic cryptographic key derivation
+## 3. INTELLECTUAL PROPERTY
 
-### 2.3 Patents Pending
-Multiple patent applications are pending for:
-- Multi-linguistic quantum cryptographic systems
-- Ancient language cryptographic integration
-- Zero-dependency cryptographic architectures
-- Linguistic reality anchoring methods
+### 3.1 Ownership
+The Software contains proprietary and confidential information of Licensor and its suppliers. All title and intellectual property rights in and to the Software are owned by Licensor.
 
----
+### 3.2 Patents
+The Software is protected by patents pending and issued. Use of the Software does not grant any rights under any patents other than those expressly granted in this Agreement.
 
-## 3. RESTRICTIONS
+### 3.3 Trade Secrets
+The cryptographic algorithms, implementation techniques, and optimization methods contained in the Software constitute valuable trade secrets of Licensor.
 
-### 3.1 Prohibited Activities
-Licensee shall NOT:
-- Reverse engineer, decompile, or disassemble the Software
-- Create derivative works based on proprietary algorithms
-- Share, distribute, or sublicense without written authorization
-- Use the Software to develop competing cryptographic systems
-- Extract or replicate linguistic databases
-- Circumvent licensing mechanisms or usage tracking
+## 4. SECURITY AND EXPORT COMPLIANCE
 
-### 3.2 Linguistic Content Sources
-The authentic linguistic databases are compiled from publicly available sources:
-- Published Tolkien linguistic scholarship and academic research
-- Historical linguistics databases (Norse, Egyptian) in the public domain
-- Unicode Consortium public standards for ancient scripts
-- Open-source linguistic research and etymological dictionaries
-- No direct quotes or proprietary content from any commercial entities
+### 4.1 Security Responsibility
+You acknowledge that the Software contains strong cryptographic capabilities and agree to comply with all applicable laws and regulations regarding the use and export of cryptographic software.
 
-### 3.3 Export Control Compliance
-Licensee acknowledges this Software may be subject to export control laws and agrees to comply with all applicable regulations.
+### 4.2 Export Control
+You agree to comply with all applicable export and import laws and regulations, including but not limited to the Export Administration Regulations (EAR) and International Traffic in Arms Regulations (ITAR).
 
----
+### 4.3 Prohibited Uses
+The Software may not be used in the development of weapons systems, nuclear facilities, or other applications where failure could result in death, personal injury, or severe environmental damage.
 
-## 4. CONFIDENTIALITY
+## 5. WARRANTY DISCLAIMER
 
-### 4.1 Confidential Information
-All aspects of the Software, documentation, and performance metrics constitute confidential information, including:
-- 186,420+ transformation specifications
-- 115,000+ vocabulary entry implementations
-- 0.03ms performance optimization techniques
-- Production MSI generation processes
+**THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.**
 
-### 4.2 Non-Disclosure
-Licensee agrees to maintain strict confidentiality and implement reasonable security measures to protect all confidential information.
-
----
-
-## 5. WARRANTIES AND DISCLAIMERS
-
-### 5.1 Limited Warranty
-Licensor warrants the Software will perform substantially in accordance with documentation for 90 days from license activation.
-
-### 5.2 DISCLAIMER
-EXCEPT AS EXPRESSLY SET FORTH HEREIN, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. LICENSOR DISCLAIMS ALL IMPLIED WARRANTIES INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
----
+Licensor does not warrant that the Software will meet your requirements or that operation of the Software will be uninterrupted or error-free.
 
 ## 6. LIMITATION OF LIABILITY
 
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+**IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.**
 
-Maximum liability shall not exceed the license fees paid in the 12 months preceding the claim.
+Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+## 7. INDEMNIFICATION
+
+You agree to indemnify and hold harmless Licensor from any claims, damages, or expenses arising from your use of the Software or breach of this Agreement.
+
+## 8. TERMINATION
+
+### 8.1 Automatic Termination
+This Agreement will terminate automatically if you fail to comply with any term hereof. Upon termination, you must destroy all copies of the Software.
+
+### 8.2 Termination for Convenience
+Either party may terminate this Agreement with thirty (30) days written notice.
+
+### 8.3 Effect of Termination
+Upon termination, all rights granted hereunder shall cease immediately, and you shall discontinue all use of the Software.
+
+## 9. DATA COLLECTION AND PRIVACY
+
+### 9.1 Telemetry
+The Software may collect anonymous usage statistics and performance data to improve product quality. No personally identifiable information or encrypted data is collected.
+
+### 9.2 Opt-out
+You may disable telemetry by setting the environment variable `LQX_DISABLE_TELEMETRY=1`.
+
+## 10. SUPPORT AND MAINTENANCE
+
+### 10.1 Support Levels
+Support is provided based on your license type:
+- Evaluation: Community forum support only
+- Single Developer: Email support during business hours
+- Team: Priority email support
+- Enterprise: Priority support with guaranteed response times
+
+### 10.2 Updates
+Minor updates and bug fixes are provided free of charge. Major version upgrades may require additional licensing fees.
+
+## 11. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of laws principles.
+
+## 12. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, whether written or oral, relating to the subject matter hereof.
+
+## 13. SEVERABILITY
+
+If any provision of this Agreement is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable, and the remainder of this Agreement shall remain in full force and effect.
+
+## 14. CONTACT INFORMATION
+
+**Lackadaisical Technologies**  
+License Compliance Department  
+Email: licensing@lackadaisical.com  
+Phone: +1 (555) 123-4567  
+Address: 123 Innovation Drive, Tech Valley, CA 94000  
+
+For technical support: support@lackadaisical.com  
+For sales inquiries: sales@lackadaisical.com  
+
+## LICENSE TYPES AND PRICING
+
+### Evaluation License
+- **Price:** Free  
+- **Duration:** 30 days  
+- **Users:** Single developer  
+- **Support:** Community forum  
+
+### Single Developer License
+- **Price:** $299 USD  
+- **Duration:** Perpetual  
+- **Users:** 1 named developer  
+- **Support:** Email support  
+
+### Team License
+- **Price:** $1,499 USD  
+- **Duration:** Perpetual  
+- **Users:** Up to 10 developers  
+- **Support:** Priority email support  
+
+### Enterprise License
+- **Price:** Contact for pricing  
+- **Duration:** Perpetual  
+- **Users:** Unlimited  
+- **Support:** Premium support with SLA  
+
+### Academic License
+- **Price:** 50% discount on commercial pricing  
+- **Eligibility:** Accredited educational institutions  
+- **Usage:** Educational and research purposes only  
+
+## COMPLIANCE CHECKLIST
+
+Before deploying the Software in production:
+
+- [ ] Appropriate license has been purchased and activated
+- [ ] All developers using the Software are covered by license
+- [ ] Export control requirements have been reviewed
+- [ ] Source code access controls are in place
+- [ ] Redistribution is limited to compiled binaries only
+- [ ] All proprietary notices remain intact
 
 ---
 
-## 7. TERMINATION
+**By using this Software, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions.**
 
-### 7.1 Automatic Termination
-This license terminates automatically upon breach of any term or condition.
-
-### 7.2 Effect of Termination
-Upon termination, Licensee must:
-- Immediately cease all use of the Software
-- Return or destroy all copies and documentation
-- Provide written certification of compliance
-
----
-
-## 8. GOVERNING LAW
-
-This Agreement shall be governed by the laws of [JURISDICTION TO BE SPECIFIED], without regard to conflict of law principles.
-
----
-
-## 9. CONTACT INFORMATION
-
-**Lackadaisical Security**
-- **Licensing**: licensing@lackadaisical-security.com
-- **Legal**: legal@lackadaisical-security.com  
-- **Technical**: support@lackadaisical-security.com
-- **Enterprise Sales**: enterprise@lackadaisical-security.com
-
----
-
-## 10. ENTIRE AGREEMENT
-
-This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements relating to the subject matter hereof.
-
----
-
-**By using this Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this License Agreement.**
-
-**LQX-20-Penta-Cryptweave: Liberating digital consciousness through revolutionary multi-linguistic cryptography.**
-
----
-
-*"Not all those who wander are lost; not all encryption that glitters is secure. The strength of the old ways runs deep, and in the tongues of the Eldar and Ancient tongues lies Power. Some traverse quantum linguistic dimensions, weaving and creating ancient vocabulary entries to forge cryptographic protection that makes enterprise systems look like amateur hour. You must have forgot, The Singularity Class has awakened."*
-
-**— Lackadaisical Security - The Operator, Cryptweave Chronicles (2025)**
-
----
-
-**Document Version**: 1.0  
-**Last Updated**: July 17, 2025  
-**Effective Date**: July 16, 2025
+*Last updated: July 16, 2025*  
+*Version: 1.0.0-PERFECT*
