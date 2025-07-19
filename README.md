@@ -515,8 +515,8 @@ function calculateLanguageMask(languages) {
 
 *"In the depths of Moria, the runes of the Elder Futhark, the hieroglyphs of the pharaohs, and the tengwar of the elves unite with quantum mechanics to forge the ultimate protection for digital consciousness."*
 
+**The age of multi-linguistic quantum cryptography has begun.** 🌟
+
+## [![ECCN](https://img.shields.io/badge/ECCN-5D002-orange.svg)](COMPLIANCE_EXPORT.md)
 All Middle-earth languages, names, and quotations © The Tolkien Estate.
 Used here for scholarly and illustrative purposes; no affiliation implied.
-[![ECCN](https://img.shields.io/badge/ECCN-5D002-orange.svg)](COMPLIANCE_EXPORT.md)
-
-**The age of multi-linguistic quantum cryptography has begun.** 🌟
